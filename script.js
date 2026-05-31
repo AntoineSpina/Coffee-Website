@@ -18,8 +18,8 @@ navlinks.forEach(link => {
 // Initialize Swiper
 const swiper = new Swiper('.slider-wrapper', {
     loop: true,
-    grabcursor: true,
-    spacebetween: 25,
+    grabCursor: true,
+    spaceBetween: 25,
 
     // If we need pagination
     pagination: {
